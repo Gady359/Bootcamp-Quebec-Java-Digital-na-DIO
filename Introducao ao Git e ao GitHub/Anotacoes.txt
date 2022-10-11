@@ -1,0 +1,5 @@
+https://github.com/
+https://git-scm.com/
+O git e um terminal extentido para utilizar o git
+
+https://www.markdownguide.org/basic-syntax/

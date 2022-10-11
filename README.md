@@ -2,5 +2,5 @@
 
 Repositorio criado para o desafio de projeto
 
-## LInsk Uteis
+## Links Uteis
 [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
