@@ -1,6 +1,6 @@
-# Desafio de projeto sobre Git/Github da DIO
+# Repositorio criado para o Bootcamp Québec Java Digital na DIO
 
-Repositorio criado para o desafio de projeto
+### Git/Github
 
-## Links Uteis
+Links Uteis:
 [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
