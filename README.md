@@ -1,6 +1,5 @@
 # Repositorio criado para o Bootcamp Québec Java Digital na DIO
 
-### Git/Github
+- ### Git/Github :ok:
 
-Links Uteis:
-[Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
