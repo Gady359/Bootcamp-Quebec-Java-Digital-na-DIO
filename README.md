@@ -1,5 +1,6 @@
 # Repositorio criado para o Bootcamp Québec Java Digital na DIO
 
-- ### Git/Github :ok:
+- ### Prepare-se Para a Jornada :ok:
+- ### Principios de Desenvolvimento de Software :ok:
 
 
