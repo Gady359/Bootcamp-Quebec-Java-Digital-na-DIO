@@ -1,3 +1,0 @@
-class  Pessoa{
-    Endereco endereco;
-}
