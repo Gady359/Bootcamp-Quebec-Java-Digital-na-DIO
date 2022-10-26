@@ -1,8 +1,0 @@
-- Collection e um objeto que agrupa multiplos elementos 
-(variaveis primitivas ou objetos) dentro de uma unica unidade.
-
-- Composicao: interfaces , implementacao/classes, algoritimos
-
-- java.util.List : elementos duplicados e garante ordem de insercao
-
-- java.util.Set : nao permite elementos duplicados, nao possui indice
